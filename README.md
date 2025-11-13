@@ -1,2 +1,3 @@
 template
-https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/
+
+https://bootstrapmade.com/demo/Craftivo/
